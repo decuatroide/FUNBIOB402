@@ -10,7 +10,7 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ## 👥 Integrantes
 
 ### Gabriel Enrique Rodriguez Marujo  
-![Foto de Gabriel Enrique Rodriguez Marujo](https://drive.google.com/file/d/1ClkVI0Bt8RwN4G9PCjP-15JOaojL658A/view?usp=drive_link)
+![Foto de Gabriel Enrique Rodriguez Marujo](https://github.com/decuatroide/FUNBIOB402/blob/main/images_md_image_1.png)
 
 - *Edad:* 18 años  
 - *Hobbie:* Jugar básquet  
