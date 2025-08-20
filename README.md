@@ -19,7 +19,7 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ---
 
 ### Daniel Alexander Rodriguez Giraldo  
-![Foto de Daniel Alexander Rodriguez Giraldo](images_md/image_2.png)  
+![Foto de Daniel Alexander Rodriguez Giraldo](https://github.com/decuatroide/FUNBIOB402/blob/main/Imagen%20de%20WhatsApp%202025-08-20%20a%20las%2017.12.50_2f31159d.jpg)
 
 - *Edad:* 19 años  
 - *Hobbie:* Jugar con mis amigos  
