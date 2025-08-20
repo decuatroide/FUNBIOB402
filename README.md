@@ -10,11 +10,11 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ## 👥 Integrantes
 
 ### Gabriel Enrique Rodriguez Marujo  
-![Foto de Gabriel Enrique Rodriguez Marujo]([images_md/image_1.png](https://drive.google.com/file/d/1ClkVI0Bt8RwN4G9PCjP-15JOaojL658A/view?usp=drive_link))  
+![Foto de Gabriel Enrique Rodriguez Marujo](https://drive.google.com/file/d/1ClkVI0Bt8RwN4G9PCjP-15JOaojL658A/view?usp=drive_link)
 
 - *Edad:* 18 años  
 - *Hobbie:* Jugar básquet  
-- 📌 "Espero aprender a analizar diferentes tipos de problemáticas y emplear nuevas metodologías y herramientas para llegar a una solución."  
+- 📌 "Espero aprender a analizar diferentes tipos de problemáicas y emplear nuevas metodologías y herramientas para llegar a una solución."  
 
 ---
 
