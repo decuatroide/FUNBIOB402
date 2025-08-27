@@ -30,7 +30,7 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ---
 
 ### Angela Marcela Rojas Soriano  
-![Foto de Angela Marcela Rojas Soriano](https://github.com/decuatroide/FUNBIOB402/blob/main/Imagen%20de%20WhatsApp%202025-08-20%20a%20las%2017.23.20_0e669992.jpg)
+![Foto de Angela Marcela Rojas Soriano](https://github.com/decuatroide/FUNBIOB402/blob/main/Imágenes/Imagen%20de%20WhatsApp%202025-08-20%20a%20las%2017.23.20_0e669992.jpg)
 
 - *Edad:* 18 años  
 - *Hobbie:* Viajar y tomar fotos  
