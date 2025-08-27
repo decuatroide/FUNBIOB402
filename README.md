@@ -39,7 +39,7 @@ A lo largo del curso, buscamos no solo adquirir bases teóricas, sino también d
 ---
 
 ### Brigitte Sofia Pomachagua Campos  
-![Foto de Brigitte Sofia Pomachagua Campos](https://github.com/decuatroide/FUNBIOB402/blob/main/Imagen%20de%20WhatsApp%202025-08-20%20a%20las%2017.33.33_4d8d2b58.jpg)
+![Foto de Brigitte Sofia Pomachagua Campos](https://github.com/decuatroide/FUNBIOB402/blob/main/Imágenes/Imagen%20de%20WhatsApp%202025-08-20%20a%20las%2017.33.33_4d8d2b58.jpg)
 
 - *Edad:* 18 años  
 - *Hobbie:* Ver series y películas  
