@@ -1,6 +1,6 @@
 # Fundamentos de Biodiseño - Grupo 09
 
-
+![foto grupo 9](https://github.com/decuatroide/FUNBIOB402/blob/main/Im%C3%A1genes/caratula.png)
 ![foto grupal](https://github.com/decuatroide/FUNBIOB402/blob/main/Imágenes/GRUPAL.jpg)
 Nosotros somos el *Grupo 09* de Fundamentos de Biodiseño, conformado por estudiantes universitarios comprometidos con el aprendizaje y la innovación.  
 Nuestro objetivo es integrar los conocimientos de ciencias básicas y diseño con una mirada creativa y crítica, para proponer soluciones a los retos que enfrenta la salud y la sociedad actual.  
